@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trigger
+  - Bomb
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Env-Items
+  - Platform
+  - Player
+  - FxLayer
+  - Bomb
+  - Enemy
+  - Trigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2185950415
+    locked: 0
+  - name: Platform
+    uniqueID: 2694680701
+    locked: 0
+  - name: BGItems
+    uniqueID: 2974190369
+    locked: 0
+  - name: Character
+    uniqueID: 3515551355
+    locked: 0

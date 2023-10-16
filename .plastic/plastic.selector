@@ -1,0 +1,4 @@
+repository "LearnProject@ssl://lyfylp001@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
